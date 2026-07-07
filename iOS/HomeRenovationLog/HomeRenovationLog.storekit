@@ -1,0 +1,42 @@
+{
+  "identifier" : "com.shimondeitel.renovationlog.pro.monthly",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "renovationlog_pro_group",
+      "localizations" : [],
+      "name" : "Home Renovation Log Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "com.shimondeitel.renovationlog.pro.monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Pro features",
+              "displayName" : "Home Renovation Log Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.renovationlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Home Renovation Log Pro Monthly",
+          "subscriptionGroupID" : "renovationlog_pro_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
